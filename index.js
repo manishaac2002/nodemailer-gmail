@@ -34,5 +34,4 @@ const sendMail = async (transporter, mailOptions) => {
 sendMail(transporter, mailOptions)
 
 
-// how many emails can send.
-// how long its takes to send the email
+
